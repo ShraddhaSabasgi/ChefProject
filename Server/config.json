@@ -1,0 +1,8 @@
+{
+    "DB_ROOTPATH" : "mongodb://localhost:27017",
+	"DB_USERNAME" : "",
+	"DB_PASSWORD" : "",
+	"DBNAME"      : "chefproject",
+	"PORT"        : "8684",
+	"RESTAURENTOWNER"  : "restaurentowner"
+}
